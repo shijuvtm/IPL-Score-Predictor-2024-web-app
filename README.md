@@ -16,6 +16,6 @@
 ### 7. Scipy: 
  ### Scipy is a Python library designed for scientific and statistical computing. It can test hypotheses and perform a wide range of statistical operations on probability distributions. Scipy can be used for feature selection, statistical analysis, and evaluating the performance of predictivemodels for the IPL score prediction project.
 ### 8. A variety of machine learning algorithms, such as gradient boosting, support vector regression, random forest, and linear regression, are used in the project. To implement these algorithms, appropriate Python tools and frameworks such as Scikit-learn, XGBoost, or LightGBM are utilised. The criteria and specifics of the IPL score prediction challenge are taken into consideration when choosing an algorithm.
-## FRONT END
-### CREATING WEB APPLICATION USING STREAMLIT
+## FRONT END :- Streamlit and Flask. 
+## BACK END  :- Python with ML Algorithms. 
 
