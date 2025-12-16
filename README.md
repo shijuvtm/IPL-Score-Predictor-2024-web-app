@@ -23,6 +23,6 @@
 
 ## Demo Video :- 
 
-![demo video]()
+![demo video](https://github.com/shijuvtm/IPL-Score-Predictor-2024-web-app/blob/main/VID-20240603-WA0002.mp4)
 
 
