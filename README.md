@@ -23,4 +23,8 @@
 
 ## Demo Video :- 
 
-
+<video controls width="720"
+  poster="https://raw.githubusercontent.com/shijuvtm/IPL-Score-Predictor-2024-web-app/main/thumbnail.png">
+  <source src="https://raw.githubusercontent.com/shijuvtm/IPL-Score-Predictor-2024-web-app/main/VID-20240603-WA0002.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can download the video <a href="https://raw.githubusercontent.com/shijuvtm/IPL-Score-Predictor-2024-web-app/main/VID-20240603-WA0002.mp4">here</a>.
+</video>
